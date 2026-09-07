@@ -213,4 +213,4 @@ src/test/resources/
 
 ## License
 
-No project license has been selected for this reconstruction. Public visibility does not grant reuse rights; an explicit approved license should be added before treating the repository as open-source software.
+The software code in this repository is available under the [Apache License 2.0](LICENSE). Third-party dependencies remain under their own licenses.
